@@ -1,6 +1,7 @@
 /**
  *  Insteon Switch (LOCAL)
  *
+ *  Copyright 2015 umesh31@gmail.com
  *  Copyright 2014 patrick@patrickstuart.com
  *  Updated 1/4/15 by goldmichael@gmail.com
  *
@@ -15,7 +16,7 @@
  *
  */
 metadata {
-  definition (name: "Insteon Switch (LOCAL)", namespace: "michaelgold", author: "patrick@patrickstuart.com/tslagle13@gmail.com/goldmichael@gmail.com") {
+  definition (name: "Insteon Switch (LOCAL)", namespace: "usirsiwal", author: "umesh31@gmail.com/patrick@patrickstuart.com/tslagle13@gmail.com/goldmichael@gmail.com") {
     capability "Switch Level"
     capability "Actuator"
     capability "Indicator"
